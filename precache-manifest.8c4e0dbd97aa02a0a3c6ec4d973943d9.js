@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "076a2b673a1660c4da4663e7afe639dc",
+    "revision": "e41ee89c09985ac888ec27356571d99d",
     "url": "/my-aphue/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-aphue/static/css/2.f489c858.chunk.css"
   },
   {
-    "revision": "ef7f897c049bd6d9876a",
+    "revision": "b38b9ec7762c1e0bf939",
     "url": "/my-aphue/static/css/main.3aca3453.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-aphue/static/js/2.f5bb9fff.chunk.js"
   },
   {
-    "revision": "ef7f897c049bd6d9876a",
-    "url": "/my-aphue/static/js/main.7a816124.chunk.js"
+    "revision": "b38b9ec7762c1e0bf939",
+    "url": "/my-aphue/static/js/main.fdb2f1c9.chunk.js"
   },
   {
     "revision": "c86bd536dc5f6246d4bb",
