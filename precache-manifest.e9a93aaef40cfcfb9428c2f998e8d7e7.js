@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb69795af10b8286675cabbc5d4d7738",
+    "revision": "076a2b673a1660c4da4663e7afe639dc",
     "url": "/my-aphue/index.html"
   },
   {
-    "revision": "fbdb0d78b4193a55b8f1",
+    "revision": "3c043e55335cda5da0c3",
     "url": "/my-aphue/static/css/2.f489c858.chunk.css"
   },
   {
-    "revision": "73bc702d91c150cb37f7",
+    "revision": "ef7f897c049bd6d9876a",
     "url": "/my-aphue/static/css/main.3aca3453.chunk.css"
   },
   {
-    "revision": "fbdb0d78b4193a55b8f1",
-    "url": "/my-aphue/static/js/2.b61d6aee.chunk.js"
+    "revision": "3c043e55335cda5da0c3",
+    "url": "/my-aphue/static/js/2.f5bb9fff.chunk.js"
   },
   {
-    "revision": "73bc702d91c150cb37f7",
-    "url": "/my-aphue/static/js/main.a5ba1d9f.chunk.js"
+    "revision": "ef7f897c049bd6d9876a",
+    "url": "/my-aphue/static/js/main.7a816124.chunk.js"
   },
   {
     "revision": "c86bd536dc5f6246d4bb",
