@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2dd0b87c71c10a25227e627ae33583d",
+    "revision": "eb69795af10b8286675cabbc5d4d7738",
     "url": "/my-aphue/index.html"
   },
   {
-    "revision": "4baa7d3985952c30d925",
-    "url": "/my-aphue/static/css/2.69f70a5a.chunk.css"
+    "revision": "fbdb0d78b4193a55b8f1",
+    "url": "/my-aphue/static/css/2.f489c858.chunk.css"
   },
   {
-    "revision": "59a61f6a880aa2cbee13",
-    "url": "/my-aphue/static/css/main.5976bef8.chunk.css"
+    "revision": "73bc702d91c150cb37f7",
+    "url": "/my-aphue/static/css/main.3aca3453.chunk.css"
   },
   {
-    "revision": "4baa7d3985952c30d925",
-    "url": "/my-aphue/static/js/2.2ae7dbe4.chunk.js"
+    "revision": "fbdb0d78b4193a55b8f1",
+    "url": "/my-aphue/static/js/2.b61d6aee.chunk.js"
   },
   {
-    "revision": "59a61f6a880aa2cbee13",
-    "url": "/my-aphue/static/js/main.b4d347dc.chunk.js"
+    "revision": "73bc702d91c150cb37f7",
+    "url": "/my-aphue/static/js/main.a5ba1d9f.chunk.js"
   },
   {
     "revision": "c86bd536dc5f6246d4bb",
     "url": "/my-aphue/static/js/runtime~main.46ecb77a.js"
-  },
-  {
-    "revision": "9008302282fc8e1e7c7fd196b61d104b",
-    "url": "/my-aphue/static/media/1.90083022.jpg"
-  },
-  {
-    "revision": "3b18046c53ac126d1ee841114177144e",
-    "url": "/my-aphue/static/media/2.3b18046c.png"
   },
   {
     "revision": "baa294f6ff1c88a307b3be33981cc8fc",
@@ -54,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b75783f6f0c7cb5252911f1dae7cf28",
     "url": "/my-aphue/static/media/IMG_20230807_145825.3b75783f.jpg"
-  },
-  {
-    "revision": "123b7d37cd8d85017b593ad45c328a13",
-    "url": "/my-aphue/static/media/close.123b7d37.svg"
   },
   {
     "revision": "1dc35d25e61d819a9c357074014867ab",
