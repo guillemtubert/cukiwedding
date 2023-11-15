@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-aphue/precache-manifest.5581dba42ec0c31e6d8ce6a5f41f627e.js"
+  "/my-aphue/precache-manifest.cd14bf34d812b705a0e32632f1c5fc9d.js"
 );
 
 self.addEventListener('message', (event) => {
