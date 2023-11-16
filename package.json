@@ -1,8 +1,8 @@
 {
-  "homepage": "https://guillemtubert.github.io/my-aphue",
-  "name": "my-aphue",
+  "homepage": "https://guillemtubert.github.io/guillemtubert.github.io",
+  "name": "guillemtubert.github.io",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "bootstrap": "^4.3.1",
