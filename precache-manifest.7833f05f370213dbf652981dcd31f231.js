@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91eeff4770ecdbcd5873fbd1cafec9fd",
+    "revision": "4997094c22f1c46cf4b5a35d5696fdf6",
     "url": "/index.html"
   },
   {
-    "revision": "28b24293218153d48b9d",
+    "revision": "4867a86369f753bdac57",
     "url": "/static/css/2.b0da1dfe.chunk.css"
   },
   {
-    "revision": "b176c4870453ea0ec9a2",
-    "url": "/static/css/main.ee7e058a.chunk.css"
+    "revision": "af3592bb6355efc0a581",
+    "url": "/static/css/main.1352aac9.chunk.css"
   },
   {
-    "revision": "28b24293218153d48b9d",
-    "url": "/static/js/2.148e6c6a.chunk.js"
+    "revision": "4867a86369f753bdac57",
+    "url": "/static/js/2.0da85754.chunk.js"
   },
   {
-    "revision": "b176c4870453ea0ec9a2",
-    "url": "/static/js/main.faae174e.chunk.js"
+    "revision": "af3592bb6355efc0a581",
+    "url": "/static/js/main.ad21ee3f.chunk.js"
   },
   {
     "revision": "8105d80603b5eb59d138",
@@ -70,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d30576438a3f88c8ce7c0a23e0594ad",
     "url": "/static/media/logo-sense-fons.0d305764.png"
+  },
+  {
+    "revision": "09fffcb875010eff0a8aa7cb11c6ff21",
+    "url": "/static/media/naluchi.09fffcb8.png"
+  },
+  {
+    "revision": "37a4d99a54cc2ee3b3e8aaba83dff781",
+    "url": "/static/media/qwerty.37a4d99a.jpg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
